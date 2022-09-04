@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
-<h3 align="center">A backend focused web developer, from Colombia :colombia: </h3>
+<h3 align="center">A web developer focused on backend, from Colombia :colombia: </h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=dark&locale=en" alt="sebastian-pz" /></p>
 
