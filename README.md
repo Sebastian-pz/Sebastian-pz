@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-pz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sebastian-pz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&show_icons=true&theme=dark&locale=en" alt="sebastian-pz" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=dark&locale=en)
