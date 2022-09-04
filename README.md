@@ -13,6 +13,7 @@
 <a href="https://www.leetcode.com/sebastiantfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sebastiantfa" height="30" width="40" /></a>
 </p>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Main</h4>
