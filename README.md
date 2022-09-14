@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
 <h3 align="center">A web developer focused on backend, from Colombia :colombia: </h3>
-
+<p align="center">
+Currently, passionate web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
+</p>
+<p align="center">
+If you are interested in chatting go ahead!
+</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=dark&locale=en" alt="sebastian-pz" /></p>
 
-- 🔭 I’m currently working on [Rockstar place](https://github.com/SnowMoon272/PF-RockStar_Place)
+- 🔭 Last project in which I participated [Rockstar place](https://github.com/SnowMoon272/PF-RockStar_Place)
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<h3 align="left">Social media:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-p%c3%a9rez-zuluaga-859715206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-p%c3%a9rez-zuluaga-859715206/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sebastiantfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sebastiantfa" height="30" width="40" /></a>
 </p>
 
 <hr>
