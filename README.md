@@ -12,7 +12,7 @@ If you are interested in chatting go ahead!
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-pz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Social media:</h3>
@@ -51,4 +51,4 @@ If you are interested in chatting go ahead!
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-pz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
