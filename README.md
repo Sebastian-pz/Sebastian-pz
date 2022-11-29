@@ -12,7 +12,7 @@ If you are interested in chatting go ahead!
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-pz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Social media:</h3>
