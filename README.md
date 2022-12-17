@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
-<h3 align="center">A web developer focused on backend, from Colombia :colombia: </h3>
+<h3 align="center">A full stack web developer, from Colombia :colombia: </h3>
 <p align="center">
 Currently, passionate web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
 </p>
