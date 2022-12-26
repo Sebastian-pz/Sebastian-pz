@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
 <h3 align="center">A full stack web developer, from Colombia :colombia: </h3>
 <p align="center">
-Currently, passionate web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
+Currently, passionate fullstack web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
 </p>
 <p align="center">
 If you are interested in chatting go ahead!
