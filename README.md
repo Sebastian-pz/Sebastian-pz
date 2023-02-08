@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
 <h3 align="center">A full stack web developer, from Colombia :colombia: </h3>
 <p align="center">
-Currently, passionate fullstack web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
+Currently, passionate fullstack web developer looking to join an active work team in which to continue learning, with enthusiasm to continue developing my career, improving my code and expanding my technologies .
 </p>
 <p align="center">
 If you are interested in chatting go ahead!
@@ -48,7 +48,7 @@ If you are interested in chatting go ahead!
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<h4>Other languages</h4>
+<h4>Other programming languages</h4>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
