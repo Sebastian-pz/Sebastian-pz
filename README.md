@@ -8,7 +8,7 @@ If you are interested in chatting go ahead!
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=dark&locale=en" alt="sebastian-pz" /></p>
 
-- 🔭 Last project in which I participated [Rockstar place](https://github.com/SnowMoon272/PF-RockStar_Place)
+- 🔭 Last project in which I participated [Ducker](https://github.com/sebastian-pz/Ducker). <img src="https://badgen.net/badge/Estado/En desarrollo/green?icon=github" alt="En desarrollo"/> 
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
