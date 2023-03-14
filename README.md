@@ -6,9 +6,9 @@ Currently, passionate fullstack web developer looking to join an active work tea
 <p align="center">
 If you are interested in chatting, go ahead!
 </p>
-<p align="center">
+<!-- <p align="center">
 Currently learning C#
-</p>
+</p> -->
 
 - 🔭 Last project in which I participated, [Ducker](https://github.com/sebastian-pz/Ducker). 
 - 
