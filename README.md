@@ -13,8 +13,8 @@ If you are interested in chatting, go ahead!
 Currently learning C#
 </p> -->
 
-- 🔭 Last project in which I participated, [Ducker](https://github.com/sebastian-pz/Ducker). 
-- 
+- 🔭 Last project in which I participated, Freelance (+5 months) with small ecommerce and SPJ.
+
 - <img src="https://badgen.net/badge/Estado/En desarrollo/green?icon=github" alt="En desarrollo"/> 
 
 - 📫 How to reach me **spezuluaga@gmail.com**
