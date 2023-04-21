@@ -10,7 +10,7 @@
 If you are interested in chatting, go ahead!
 </p>
 
-- 🔭 Freelance (+5 months) 3 projects -Small ecommerce -Judicial simulator -Programming test.
+- 🔭 Freelance (+5 months) 3 projects - Ecommerce - Judicial simulator ARG - Programming test.
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
