@@ -4,7 +4,7 @@
   Currently, passionate fullstack web developer, programming since Jan 2020, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
 </p>
 <p align="center">
-  Working as a Fullstack web developer, Node, JavaScript, TypeScript, C#", .NET.
+  Working as a Fullstack web developer | JavaScript, TypeScript, Node, Express, React, C#, .NET |
 </p>
 <p align="center">
 If you are interested in chatting, go ahead!
