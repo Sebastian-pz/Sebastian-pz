@@ -10,7 +10,7 @@
 If you are interested in chatting, go ahead!
 </p>
 
-- 🔭 Experience (+8 months) full stack web developer!.
+- 🔭 Experience (+10 months) full stack web developer!.
 
 - 📫 How to reach me **spezuluaga@gmail.com**
 
