@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
-<h2 align="center">A full stack web developer, from Colombia :colombia: </h2>
+<h2 align="center">Programmer focused in web development, from Colombia :colombia: </h2>
 <p align="center">
   Currently, passionate fullstack web developer, programming since Jan 2020, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
 </p>
 <p align="center">
-  Working as a Fullstack web developer | JavaScript, TypeScript, Node, Express, React
+  Working as a programmer, focused on web development | JavaScript, TypeScript
 </p>
 <p align="center">
 If you are interested in chatting, go ahead!
