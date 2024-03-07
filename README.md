@@ -17,14 +17,15 @@
 
 <h2 align="center">GitHub Stats 📈!</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="sebastian-pz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=material-palenight&locale=en&include_all_commits=true" alt="sebastian-pz" /></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastian-pz&theme=dark&hide_border=false"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=sebastian-pz&theme=material-palenight&border_radius=6&exclude_days=Sun%2CSat" alt="sebastian-pz" />
 </p>
 
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-pz&theme=dark&count_private=true&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-pz&theme=material-palenight&count_private=true&layout=compact"/>
 </p>
 
 <h2 align="center">Social media:</h2>
