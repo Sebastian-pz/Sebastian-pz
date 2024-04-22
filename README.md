@@ -6,7 +6,8 @@
 <p align="center">
   Working as a programmer, focused on web solutions 🔥
 </p>
-<p align="center"> <strong>I have worked with some product companies</strong>, universities, bar, e-commerce and more.</p>
+<p align="center"> <strong>I have worked with some product companies</strong>, universities, bars, e-commerce and more.</p>
+<p align="center">Creating code that the computer reads and people understand.</p>
 <p align="center">
   If you are interested in chatting, go ahead!
 </p>
