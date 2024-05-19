@@ -12,7 +12,7 @@
   If you are interested in chatting, go ahead!
 </p>
 
-<p align="center"><bold>Working with backend micro-services</bold></p>
+<p align="center"><bold>Working with fullstack web apps, backend micro-services</bold></p>
 
 - 🔭 Experience, more than 1 year as full stack web developer!.
 
