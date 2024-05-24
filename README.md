@@ -8,11 +8,13 @@
 </p>
 <p align="center"> <strong>I have worked with some product companies</strong>, universities, bars, e-commerce and more.</p>
 <p align="center">Creating code that the computer reads and people understand.</p>
+<p align="center">Learning Angular and .Net</p>
 <p align="center">
   If you are interested in chatting, go ahead!
 </p>
 
 <p align="center"><bold>Working with fullstack web apps, backend micro-services</bold></p>
+
 
 - 🔭 Experience, more than 1 year as full stack web developer!.
 
