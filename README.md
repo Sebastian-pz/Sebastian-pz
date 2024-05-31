@@ -8,7 +8,7 @@
 </p>
 <p align="center"> <strong>I have worked with some product companies</strong>, universities, bars, e-commerce and more.</p>
 <p align="center">Creating code that the computer reads and people understand.</p>
-<p align="center">Learning Angular and .Net</p>
+<p align="center">Currently learning C# with .Net</p>
 <p align="center">
   If you are interested in chatting, go ahead!
 </p>
@@ -16,7 +16,7 @@
 <p align="center"><bold>Working with fullstack web apps, backend micro-services</bold></p>
 
 
-- 🔭 Experience, more than 1 year as full stack web developer!.
+- 🔭 Experience, more than a year and a half as full stack web developer!.
 
 - 📫 How to reach me: **spezuluaga@gmail.com**
 
