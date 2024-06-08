@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
-<h2 align="center">Programmer focused in web development, from Colombia :colombia: </h2>
+<h2 align="center">Fullstack programmer focused in web development, from Colombia :colombia: </h2>
 <p align="center">
-  Currently, fullstack web developer, programming since Jan 2020, with enthusiasm to continue developing my career, improving my code and expanding my technologies.
+  Currently, fullstack web developer, programming since Jan 2020, with enthusiasm to continue developing my career, improving my code, expanding my technologies and creating web solutions.
 </p>
 <p align="center">
   Working as a programmer, focused on web solutions 🔥
