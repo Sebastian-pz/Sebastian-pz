@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sebastian Perez</h1>
-<h2 align="center">Fullstack programmer focused in web development, from Colombia :colombia: </h2>
+<h2 align="center">Fullstack developer focused in web, from Colombia :colombia: </h2>
 <p align="center">
   Currently, fullstack developer, programming since 2020, with enthusiasm to continue developing my career, improving my code, expanding my technologies and creating web solutions.
 </p>
 <p align="center">
-  Working as a programmer, focused on web solutions 🔥
+  Working as a dev, focused on web solutions 🔥
 </p>
 <p align="center"> <strong>I have worked with some product companies</strong>, universities, bars, e-commerce and more.</p>
 <p align="center">Creating code that the computer reads and people understand.</p>
-<p align="center">Currently learning C# with .Net and Microservices</p>
+<p align="center">Learning Microservices</p>
 <p align="center">
   If you are interested in chatting, go ahead!
 </p>
 
 
-- 🔭 Experience, more than a year and a half as full stack web developer!.
+- 🔭 Experience, more than a year and a half as fullstack developer!.
 
 - 📫 How to reach me: **spezuluaga@gmail.com**
 
