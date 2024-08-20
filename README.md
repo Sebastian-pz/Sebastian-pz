@@ -16,11 +16,11 @@
 </p>
 
 
-- 🔭 Experience, more than a year and a half as fullstack developer!.
+<h2 align="center">🔭 +2 years of professional experience working as a software developer focused on web!</h2>
 
-- 📫 How to reach me: **spezuluaga@gmail.com**
+<p align="center">📫 Contact me at: <bold>spezuluaga@gmail.com</bold></p>
 
-<h2 align="center">GitHub Stats 📈!</h2>
+<h2 align="center">Some stats (Sometimes it doesn't work well) 📈!</h2>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=material-palenight&locale=en&include_all_commits=true" alt="sebastian-pz" /></p>
 
