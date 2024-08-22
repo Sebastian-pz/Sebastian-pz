@@ -22,7 +22,8 @@
 
 <h2 align="center">Some stats (Sometimes it doesn't work well) 📈!</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-pz&count_private=true&show_icons=true&theme=material-palenight&locale=en&include_all_commits=true" alt="sebastian-pz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/sebastian-pz?cardType=level&theme=material-palenight&preferLogin=false" alt="sebastian-pz" /></p>
+
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=sebastian-pz&theme=material-palenight&border_radius=6&exclude_days=Sun%2CSat" alt="sebastian-pz" />
