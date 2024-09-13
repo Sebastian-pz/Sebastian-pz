@@ -16,7 +16,7 @@
 </p>
 
 
-<h2 align="center">🔭 +2 years of professional experience working as a software developer focused on web!</h2>
+<h2 align="center">🔭 3 years of professional experience working as a software developer focused on web!</h2>
 
 <p align="center">📫 Contact me at: <bold>spezuluaga@gmail.com</bold></p>
 
